@@ -1,4 +1,4 @@
-# Predict-attributes-from-product-image
+# Predict attributes from product image
 Predicting attributes from supplier uploaded images as part of cataloging is extremely crucial for any E-commerce platform. Typically, when suppliers upload their products for listing on the marketplace, they are required to fill in various details corresponding to product attributes (e.g., color, pattern, sleeve). This process often results in incorrect or incomplete attribute information.
 
 Dataset
